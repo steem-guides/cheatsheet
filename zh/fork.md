@@ -1,7 +1,7 @@
 # Fork Cheatsheet | 分叉清单
 
 > 由于 Hive 分叉的临近，不可避免地，社区必将迎来骚乱。
-> 为了缓解混乱带来的信息查询的困难，《Steem指南》推出特刊《分叉清单》（Fork Cheatsheet），帮助大家快速查询关于 Steem/Hive 的 DApp、工具、API节点 等信息，解决疑难。
+> 为了缓解混乱带来的信息查询的困难，《Steem指南》推出特刊《分叉清单》（Fork Cheatsheet），帮助大家快速查询关于 Steem/Hive 的 DApp、工具 、API节点等信息，澄清疑惑。本清单将不时更新。
 
 ## Hive分叉始末
 
