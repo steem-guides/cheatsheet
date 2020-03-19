@@ -1,7 +1,7 @@
 # Fork Cheatsheet | 分叉清单
 
-> 由于 Hive 分叉的临近，不可避免地，社区必将迎来大混乱。
-> 为了缓解混乱带来的信息查询的困难，《Steem指南》推出特刊《分叉清单》（Fork Cheatsheet），帮助大家快速查询关于 Steem/Hive 的 DApp、工具 等信息，解决疑难。
+> 由于 Hive 分叉的临近，不可避免地，社区必将迎来骚乱。
+> 为了缓解混乱带来的信息查询的困难，《Steem指南》推出特刊《分叉清单》（Fork Cheatsheet），帮助大家快速查询关于 Steem/Hive 的 DApp、工具、API节点 等信息，解决疑难。
 
 ## Hive分叉始末
 
@@ -59,11 +59,6 @@
 | https://gtg.steem.house | 未知 | 未知 | | |
 | https://rpc.esteem.app | 未知 | 未知 | | |
 
-## Witness态度
+## FAQ
 
-
-
-
-#### 信息来源
-
-- [HIVE NEWS @ 18 March 2020 - A new News Service for a new Chain](https://steem.buzz/hive/@pennsif/hive-news-18-march-2020-a-new-news-service-for-a-new-chain)
+- 欢迎提供更多问题或建议 :)
