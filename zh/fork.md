@@ -39,10 +39,10 @@
 
 | 节点 | 是否在Steem | 是否在Hive | 相关文章 | 备注 |
 | :-- | -- | -- | :-- | :-- |
-| https://api.steemit.com | 是 | 否 | [It's Time to Decentralize](https://steem.buzz/hive/@anyx/it-s-time-to-decentralize) | |
-| https://anyx.io | 否 | 是 | | |
+| https://api.steemit.com | 是 | 否 |  | |
+| https://anyx.io | 否 | 是 | [It's Time to Decentralize](https://steem.buzz/hive/@anyx/it-s-time-to-decentralize) | |
 | https://steem.61bts.com | 是 | 否 | | |
-| https://techcoderx.com | 否 | 是 | | |
+| https://techcoderx.com | 否 | 是 | [Statement from @techcoderx witness](https://steem.buzz/witness/@techcoderx/statement-from-techcoderx-witness) | |
 | https://steemd.minnowsupportproject.org | 未知 | 未知 | | |
 | https://rpc.usesteem.com | 未知 | 未知 | | |
 | https://api.steem.house | 未知 | 未知 | | |
