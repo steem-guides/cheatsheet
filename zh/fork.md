@@ -20,7 +20,7 @@
 | Actifit | | 否 | 是 |  |  |  |  |
 | Dpoll | | 未知 | 是 |  |  |  |  |
 | steem.chat | openhive.chat | 否 | 是 |  |  |  |  |
-| SteemSTEM | | 否 | 是 |  |  |  |  |
+| SteemSTEM | HiveSTEM | 否 | 是 |   |  | [On my way to the Hive side, with SteemSTEM](https://steempeak.com/@lemouth/on-my-way-to-the-hiv-1584625090) |  |
 | Steemitworldmap | | 未知 | 是 |  |  |  |  |
 | Haveyoubeenhere | | 未知 | 是 |  |  |  |  |
 | curiesteem.com | | 未知 | 是 |  |  |  |  |
