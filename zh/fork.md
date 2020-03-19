@@ -14,16 +14,17 @@
 | Steem名称 | Hive名称 | 是否在Steem | 是否在Hive | Steem 网站/App | Hive 网站/App | 相关文章 | 备注 |
 | :-- | :-- | -- | -- | :-- | :-- | :-- | :-- |
 | SteemPeak | | 否 | 是 |  |  |  |  |
-| Actifit | | 否 | 是 |  |  |  |  |
+| Steem Engine | | 是 | 未知 |  |  |  |  |
 | SteemAuto | Hive.vote | 是（待定） | 是 | http://steemauto.com/ | https://hive.vote | [Hive.vote: Steemauto on the new chain 2020/03/18](https://steempeak.com/steemauto/@steemauto/hive-vote-or-steemauto-on-the-new-chain) |  |
 | Splinterlands | | 是 | 是 |  |  | [Splinterlands' Plans for the Upcoming Hive Fork 2020/03/19](https://steem.buzz/splinterlands/@splinterlands/splinterlands-plans-for-the-upcoming-hive-fork) |  |
+| Actifit | | 否 | 是 |  |  |  |  |
 | Dpoll | | 未知 | 是 |  |  |  |  |
 | steem.chat | openhive.chat | 否 | 是 |  |  |  |  |
 | SteemSTEM | | 否 | 是 |  |  |  |  |
 | Steemitworldmap | | 未知 | 是 |  |  |  |  |
 | Haveyoubeenhere | | 未知 | 是 |  |  |  |  |
 | curiesteem.com | | 未知 | 是 |  |  |  |  |
-| OCD | | 否 | 是 |  |  |  |  |
+| OCD | | 未知 | 是 |  |  |  |  |
 | thegoodwhales.com | | 未知 | 是 |  |  |  |  |
 | C-Squared | | 未知 | 是 |  |  |  |  |
 | Global Blacklist API | | 未知 | 是 |  |  |  |  |
@@ -38,7 +39,7 @@
 
 | 节点 | 是否在Steem | 是否在Hive | 相关文章 | 备注 |
 | :-- | -- | -- | :-- | :-- |
-| https://api.steemit.com | 是 | 否 | | |
+| https://api.steemit.com | 是 | 否 | [It's Time to Decentralize](https://steem.buzz/hive/@anyx/it-s-time-to-decentralize) | |
 | https://anyx.io | 否 | 是 | | |
 | https://steem.61bts.com | 是 | 否 | | |
 | https://techcoderx.com | 否 | 是 | | |
