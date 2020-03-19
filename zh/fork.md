@@ -6,7 +6,7 @@
 ## Hive分叉始末
 
 1. 2020年3月17日，宣布准备分叉：[Why I won’t be compromising with Justin Sun](https://steem.buzz/steem/@blocktrades/why-i-won-t-be-compromising-with-justin-sun) ([中文版，来自 @oflyhigh](https://steem.buzz/cn/@oflyhigh/-blocktrades---steema8a54f8c73)),
-2. 2020年3月18日，介绍分叉的细节：[Announcing the Launch of Hive Blockchain](https://steem.buzz/@hiveio/announcing-the-launch-of-hive-blockchain) | ([中文版，来自 @oflyhigh](https://steem.buzz/cn/@oflyhigh/hive))
+2. 2020年3月18日，介绍分叉的细节：[Announcing the Launch of Hive Blockchain](https://steem.buzz/@hiveio/announcing-the-launch-of-hive-blockchain) ([中文版，来自 @oflyhigh](https://steem.buzz/cn/@oflyhigh/hive))
 
 
 ## DApp和工具
