@@ -15,7 +15,7 @@
 | :-- | :-- | -- | -- | :-- | :-- | :-- | :-- |
 | SteemPeak | | 否 | 是 |  |  |  |  |
 | Actifit | | 否 | 是 |  |  |  |  |
-| SteemAuto | Hive.vote | 否 | 是 | http://steemauto.com/ | https://hive.vote | [Hive.vote: Steemauto on the new chain 2020/03/18](https://steempeak.com/steemauto/@steemauto/hive-vote-or-steemauto-on-the-new-chain) |  |
+| SteemAuto | Hive.vote | 是（待定） | 是 | http://steemauto.com/ | https://hive.vote | [Hive.vote: Steemauto on the new chain 2020/03/18](https://steempeak.com/steemauto/@steemauto/hive-vote-or-steemauto-on-the-new-chain) |  |
 | Splinterlands | | 是 | 是 |  |  | [Splinterlands' Plans for the Upcoming Hive Fork 2020/03/19](https://steem.buzz/splinterlands/@splinterlands/splinterlands-plans-for-the-upcoming-hive-fork) |  |
 | Dpoll | | 未知 | 是 |  |  |  |  |
 | steem.chat | openhive.chat | 否 | 是 |  |  |  |  |
