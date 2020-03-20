@@ -67,6 +67,77 @@
 | https://gtg.steem.house | 未知 | 未知 | | |
 | https://rpc.esteem.app | 未知 | 未知 | | |
 
+## Wintesses 立场
+
+|		|	Total	|	STEEM	|	HIVE	|	Neutrality 	|
+|	:--------:	|	:--------	|	:--------:	|	:--------:	|	:--------:	|
+|		|		|	27	|	22	|	11	|
+|	1	|	 @good-karma	|		|	○	|		|
+|	2	|	 @roelandp	|		|	○	|		|
+|	3	|	 @blocktrades	|		|	○	|		|
+|	4	|	 @anyx	|		|	○	|		|
+|	5	|	 @yabapmatt	|		|		|	○	|
+|	6	|	 @ausbitbank	|		|	○	|		|
+|	7	|	 @gtg	|		|	○	|		|
+|	8	|	 @triple.aaa	|	○	|		|		|
+|	9	|	 @steempress	|		|	○	|		|
+|	10	|	 @zzan.witnesses	|	○	|		|		|
+|	11	|	 @themarkymark	|		|		|	○	|
+|	12	|	 @cervantes	|		|		|	○	|
+|	13	|	 @steemhunt	|	○	|		|		|
+|	14	|	 @aheadofslow	|	○	|		|		|
+|	15	|	 @goodguy24	|	○	|		|		|
+|	16	|	 @night11pm	|	○	|		|		|
+|	17	|	 @hunger365	|	○	|		|		|
+|	18	|	 @jumphigh	|	○	|		|		|
+|	19	|	 @waitforyou1	|	○	|		|		|
+|	20	|	 @cloudysun	|	○	|		|		|
+|	21	|	 @coronashallgo	|	○	|		|		|
+|	22	|	 @someguy123	|		|		|	○	|
+|	23	|	 @paintingclub	|	○	|		|		|
+|	24	|	 @drakos	|		|	○	|		|
+|	25	|	 @steem-dragon	|	○	|		|		|
+|	26	|	 @future.witness	|	○	|		|		|
+|	27	|	 @followbtcnews	|		|	○	|		|
+|	28	|	 @aggroed	|		|	○	|		|
+|	29	|	 @lukestokes.mhth	|		|	○	|		|
+|	30	|	 @therealwolf	|		|	○	|		|
+|	31	|	 @thecryptodrive	|		|	○	|		|
+|	32	|	 @bostonawesome	|	○	|		|		|
+|	33	|	 @toke2049	|	○	|		|		|
+|	34	|	 @flyingfly1	|	○	|		|		|
+|	35	|	 @abit	|		|		|	○	|
+|	36	|	 @agirl10000	|	○	|		|		|
+|	37	|	 @eastooowest	|	○	|		|		|
+|	38	|	 @maiyude	|	○	|		|		|
+|	39	|	 @steempeak	|		|		|	○	|
+|	40	|	 @nicetry001	|	○	|		|		|
+|	41	|	 @car2001	|	○	|		|		|
+|	42	|	 @high46	|	○	|		|		|
+|	43	|	 @respect888	|	○	|		|		|
+|	44	|	 @matreshka	|	○	|		|		|
+|	45	|	 @ocd-witness	|		|	○	|		|
+|	46	|	 @emrebeyler	|		|	○	|		|
+|	47	|	 @netuoso	|		|	○	|		|
+|	48	|	 @pharesim	|		|	○	|		|
+|	49	|	 @curie	|		|		|	○	|
+|	50	|	 @arcange	|		|	○	|		|
+|	51	|	 @timcliff	|		|	○	|		|
+|	52	|	 @stoodkev	|		|	○	|		|
+|	53	|	 @riverhead	|		|		|	○	|
+|	54	|	 @liondani	|		|		|	○	|
+|	55	|	 @actifit	|		|	○	|		|
+|	56	|	 @jesta	|		|		|	○	|
+|	57	|	 @pfunk	|		|	○	|		|
+|	58	|	 @blockbrothers	|	○	|		|		|
+|	59	|	 @bhuz	|		|		|	○	|
+|	60	|	 @justyy	|	○	|		|		|
+
+#### 信息来源
+
+- [Which witness stays on Steem and leaves to Hive?](https://steem.buzz/witness-category/@zzan.witnesses/which-witness-stays-on-steem-and-leaves-to-hive)
+
+
 ## FAQ
 
 1. 分叉对使用 Steem 的影响有哪些？
