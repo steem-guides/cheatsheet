@@ -71,13 +71,13 @@
 
 1. 分叉对使用 Steem 的影响有哪些？
 
-> 部分 DApp 会迁移到 Hive，使用那些 App 时可能需要注意它默认使用的是 Steem 还是 Hive 链，以及是否支持选择使用哪条链
+  > 部分 DApp 会迁移到 Hive，使用那些 App 时可能需要注意它默认使用的是 Steem 还是 Hive 链，以及是否支持选择使用哪条链
 
 2. 分叉时需要注意哪些问题？
 
-> 分叉时最重要的是注意账户安全。**不要**在不熟悉的 App 和 客户端上使用 active key（活跃秘钥）或者 master key（主密钥）登录，否则有钱包失窃的危险。
+  > 分叉时最重要的是注意账户安全。**不要**在不熟悉的 App 和 客户端上使用 active key（活跃秘钥）或者 master key（主密钥）登录，否则有钱包失窃的危险。
 
 
 ## 欢迎提问和建议
 
-欢迎提供更多问题或建议 :)
+欢迎提供更多问题或建议，或参与[编辑](https://github.com/steem-guides/cheatsheet/edit/master/zh/fork.md) :)
