@@ -56,6 +56,7 @@
 | 节点 | 是否在Steem | 是否在Hive | 相关文章 | 备注 |
 | :-- | -- | -- | :-- | :-- |
 | https://api.steemit.com | Y | N |  | |
+| https://api.hive.blog | N | Y | | |
 | https://anyx.io | N | Y | [It's Time to Decentralize](https://steem.buzz/hive/@anyx/it-s-time-to-decentralize) | |
 | https://steem.61bts.com | Y | N | | |
 | https://techcoderx.com | N | Y | [Statement from @techcoderx witness](https://steem.buzz/witness/@techcoderx/statement-from-techcoderx-witness) | |
