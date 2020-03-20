@@ -17,29 +17,29 @@
 
 | Steem名称 | Hive名称 | 是否在Steem | 是否在Hive | Steem 网站/App | Hive 网站/App | 相关文章 | 备注 |
 | :-- | :-- | -- | -- | :-- | :-- | :-- | :-- |
-| Steemit | | Y | N | https://steemit.com |  |  |  |
-|  | Hive | Y | N |  | https://hive.blog |  |  |
-| steemd | hiveblocks | 是 | 是 | https://steemd.com | https://hiveblocks.com/ | | | 
-| SteemPeak | | Y | Y |  |  | [THINGS ARE BUZZING - We want your input (#HIVE #REBRANDING)](https://steempeak.com/hive-175001/@steempeak/hive-and-url-changes) |  |
-| Partiko | | N | Y |  |  |  | Partiko 已经不在维护，由于使用了 anyx 节点，将同步 Hive 链数据 |
-| Steem Engine | | Y | 未知 |  |  |  |  |
-| SteemAuto | Hive.vote | Y（待定） | Y | http://steemauto.com/ | https://hive.vote | [Hive.vote: Steemauto on the new chain 2020/03/18](https://steempeak.com/steemauto/@steemauto/hive-vote-or-steemauto-on-the-new-chain) |  |
-| Splinterlands | | Y | Y |  |  | [Splinterlands' Plans for the Upcoming Hive Fork 2020/03/19](https://steem.buzz/splinterlands/@splinterlands/splinterlands-plans-for-the-upcoming-hive-fork) |  |
-| Tipu | | Y | Y |  |  | [Hive Five!](https://steempeak.com/steem/@tipu/hive-five) |  |
-| Steem Keychain | | Y | Y |  |  |  | 不支持 steemit.com 前端 |
-| Actifit | | N | Y |  |  | [Can You Hear the Buzzin? An Actifitter's Guide Plan to Hive](https://steempeak.com/actifit/@actifit/can-you-hear-the-buzzin-an-actifitter-s-guide-plan-to-hive) !
+| Steemit | | ○ |   | https://steemit.com |  |  |  |
+|  | Hive | ○ |   |  | https://hive.blog |  |  |
+| steemd | hiveblocks | ○ | ○ | https://steemd.com | https://hiveblocks.com/ | | | 
+| SteemPeak | PeakD | ○ | ○ | https://steempeak.com/ | https://peakd.com/ | [THINGS ARE BUZZING - We want your input (#HIVE #REBRANDING)](https://steempeak.com/hive-175001/@steempeak/hive-and-url-changes) |  |
+| Partiko | |   | ○ |  |  |  | Partiko 已经不在维护，由于使用了 anyx 节点，将同步 Hive 链数据 |
+| Steem Engine | | ○ | 未知 |  |  |  |  |
+| SteemAuto | Hive.vote | ○（待定） | ○ | http://steemauto.com/ | https://hive.vote | [Hive.vote: Steemauto on the new chain 2020/03/18](https://steempeak.com/steemauto/@steemauto/hive-vote-or-steemauto-on-the-new-chain) |  |
+| Splinterlands | | ○ | ○ |  |  | [Splinterlands' Plans for the Upcoming Hive Fork 2020/03/19](https://steem.buzz/splinterlands/@splinterlands/splinterlands-plans-for-the-upcoming-hive-fork) |  |
+| Tipu | | ○ | ○ |  |  | [Hive Five!](https://steempeak.com/steem/@tipu/hive-five) |  |
+| Steem Keychain | Hive Keychain | ○ | ○ |  |  |  | 不支持 steemit.com 前端 |
+| Actifit | |   | ○ |  |  | [Can You Hear the Buzzin? An Actifitter's Guide Plan to Hive](https://steempeak.com/actifit/@actifit/can-you-hear-the-buzzin-an-actifitter-s-guide-plan-to-hive) !
  |  |
-| Dpoll | | 未知 | Y |  |  |  |  |
-| steem.chat | openhive.chat | N | Y |  |  |  |  |
-| SteemSTEM | HiveSTEM | N | Y |   |  | [On my way to the Hive side, with SteemSTEM](https://steempeak.com/@lemouth/on-my-way-to-the-hiv-1584625090) |  |
-| Steemitworldmap | | 未知 | Y |  |  |  |  |
-| Haveyoubeenhere | | 未知 | Y |  |  |  |  |
-| curiesteem.com | | 未知 | Y |  |  |  |  |
-| OCD | | 未知 | Y |  |  |  |  |
-| thegoodwhales.com | | 未知 | Y |  |  |  |  |
-| C-Squared | | 未知 | Y |  |  |  |  |
-| Global Blacklist API | | 未知 | Y |  |  |  |  |
-| Curangel | | 未知 | Y |  |  |  |  |
+| Dpoll | | 未知 | ○ |  |  |  |  |
+| steem.chat | openhive.chat |   | ○ |  |  |  |  |
+| SteemSTEM | HiveSTEM |   | ○ |   |  | [On my way to the Hive side, with SteemSTEM](https://steempeak.com/@lemouth/on-my-way-to-the-hiv-1584625090) |  |
+| Steemitworldmap | | 未知 | ○ |  |  |  |  |
+| Haveyoubeenhere | | 未知 | ○ |  |  |  |  |
+| curiesteem.com | | 未知 | ○ |  |  |  |  |
+| OCD | | 未知 | ○ |  |  |  |  |
+| thegoodwhales.com | | 未知 | ○ |  |  |  |  |
+| C-Squared | | 未知 | ○ |  |  |  |  |
+| Global Blacklist API | | 未知 | ○ |  |  |  |  |
+| Curangel | | 未知 | ○ |  |  |  |  |
 
 #### steemconnect
 
