@@ -19,6 +19,7 @@
 | :-- | :-- | -- | -- | :-- | :-- | :-- | :-- |
 | Steemit | | Y | N | https://steemit.com |  |  |  |
 |  | Hive | Y | N |  | https://hive.blog |  |  |
+| steemd | hiveblocks | 是 | 是 | https://steemd.com | https://hiveblocks.com/ | | | 
 | SteemPeak | | Y | Y |  |  | [THINGS ARE BUZZING - We want your input (#HIVE #REBRANDING)](https://steempeak.com/hive-175001/@steempeak/hive-and-url-changes) |  |
 | Partiko | | N | Y |  |  |  | Partiko 已经不在维护，由于使用了 anyx 节点，将同步 Hive 链数据 |
 | Steem Engine | | Y | 未知 |  |  |  |  |
