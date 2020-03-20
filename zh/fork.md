@@ -61,7 +61,7 @@
 | https://anyx.io |  | ○ | [It's Time to Decentralize](https://steem.buzz/hive/@anyx/it-s-time-to-decentralize) | |
 | https://steem.61bts.com | ○ |  | | |
 | https://techcoderx.com |  | ○ | [Statement from @techcoderx witness](https://steem.buzz/witness/@techcoderx/statement-from-techcoderx-witness) | |
-| https://steemd.minnowsupportproject.org | | | | |
+| https://steemd.minnowsupportproject.org | ○ | | | |
 | https://rpc.usesteem.com | | | | |
 | https://api.steem.house | | | | |
 | https://rpc.steemviz.com | | | | |
