@@ -8,7 +8,9 @@
 1. 2020/03/17，宣布准备分叉：[Why I won’t be compromising with Justin Sun](https://steem.buzz/steem/@blocktrades/why-i-won-t-be-compromising-with-justin-sun) ([中文版，来自 @oflyhigh](https://steem.buzz/cn/@oflyhigh/-blocktrades---steema8a54f8c73)),
 2. 2020年/03/18，介绍分叉的细节：[Announcing the Launch of Hive Blockchain](https://steem.buzz/@hiveio/announcing-the-launch-of-hive-blockchain) ([中文版，来自 @oflyhigh](https://steem.buzz/cn/@oflyhigh/hive))
 3. 2020/03/20，Hive空投黑名单（名单上的用户没有空投）：[Hive 0_22hf](https://github.com/openhive-network/hive/blob/86ec9f1716744cf708b703981834e83428d447cb/libraries/protocol/hardfork.d/0_22.hf)
-4. 2020/03/20，Hive Fork的运行方法：[Hive 0.23.0 Hard Fork release](https://steempeak.com/witness-update/@someguy123/ann-steem-in-a-box-hive-0-23-0-hard-fork-released)
+4. 2020/03/20，通过SPS申述被从空投黑名单中移除：[What to do if you're mistakenly excluded from the Hive airdrop
+](https://steempeak.com/hive/@techcoderx/what-to-do-if-you-re-mistakenly-excluded-from-the-hive-airdrop)
+5. 2020/03/20，Hive Fork的运行方法：[Hive 0.23.0 Hard Fork release](https://steempeak.com/witness-update/@someguy123/ann-steem-in-a-box-hive-0-23-0-hard-fork-released)
 
 
 ## DApp和工具
