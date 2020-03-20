@@ -7,7 +7,7 @@
 
 1. 2020/03/17，宣布准备分叉：[Why I won’t be compromising with Justin Sun](https://steem.buzz/steem/@blocktrades/why-i-won-t-be-compromising-with-justin-sun) ([中文版，来自 @oflyhigh](https://steem.buzz/cn/@oflyhigh/-blocktrades---steema8a54f8c73)),
 2. 2020年/03/18，介绍分叉的细节：[Announcing the Launch of Hive Blockchain](https://steem.buzz/@hiveio/announcing-the-launch-of-hive-blockchain) ([中文版，来自 @oflyhigh](https://steem.buzz/cn/@oflyhigh/hive))
-3. 2020/03/19，没有Hive空投名单：[Hive 0_22hf](https://github.com/openhive-network/hive/blob/86ec9f1716744cf708b703981834e83428d447cb/libraries/protocol/hardfork.d/0_22.hf)
+3. 2020/03/19，Hive空投黑名单（名单上的用户没有空投）：[Hive 0_22hf](https://github.com/openhive-network/hive/blob/86ec9f1716744cf708b703981834e83428d447cb/libraries/protocol/hardfork.d/0_22.hf)
 
 
 ## DApp和工具
