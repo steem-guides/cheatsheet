@@ -55,26 +55,26 @@
 
 | 节点 | 是否在Steem | 是否在Hive | 相关文章 | 备注 |
 | :-- | -- | -- | :-- | :-- |
-| https://api.steemit.com | Y | N |  | |
-| https://api.hive.blog | N | Y | | |
-| https://anyx.io | N | Y | [It's Time to Decentralize](https://steem.buzz/hive/@anyx/it-s-time-to-decentralize) | |
-| https://steem.61bts.com | Y | N | | |
-| https://techcoderx.com | N | Y | [Statement from @techcoderx witness](https://steem.buzz/witness/@techcoderx/statement-from-techcoderx-witness) | |
-| https://steemd.minnowsupportproject.org | 未知 | 未知 | | |
-| https://rpc.usesteem.com | 未知 | 未知 | | |
-| https://api.steem.house | 未知 | 未知 | | |
-| https://rpc.steemviz.com | 未知 | 未知 | | |
-| https://steemd.pevo.science | 未知 | 未知 | | |
-| https://steemd.privex.io | 未知 | 未知 | | |
-| https://steemd.steemitdev.com | 未知 | 未知 | | |
-| https://rpc.curiesteem.com | 未知 | 未知 | | |
-| https://appbasetest.timcliff.com | 未知 | 未知 | | |
-| https://api.mahdiyari.info | 未知 | 未知 | | |
-| https://api.steemitdev.com | 未知 | 未知 | | |
-| https://gtg.steem.house:8090 | 未知 | 未知 | | |
-| https://rpc.buildteam.io | 未知 | 未知 | | |
-| https://gtg.steem.house | 未知 | 未知 | | |
-| https://rpc.esteem.app | 未知 | 未知 | | |
+| https://api.steemit.com | ○ |  |  | |
+| https://api.hive.blog |  | ○ | | |
+| https://anyx.io |  | ○ | [It's Time to Decentralize](https://steem.buzz/hive/@anyx/it-s-time-to-decentralize) | |
+| https://steem.61bts.com | ○ |  | | |
+| https://techcoderx.com |  | ○ | [Statement from @techcoderx witness](https://steem.buzz/witness/@techcoderx/statement-from-techcoderx-witness) | |
+| https://steemd.minnowsupportproject.org | | | | |
+| https://rpc.usesteem.com | | | | |
+| https://api.steem.house | | | | |
+| https://rpc.steemviz.com | | | | |
+| https://steemd.pevo.science | | | | |
+| https://steemd.privex.io | | | | |
+| https://steemd.steemitdev.com | | | | |
+| https://rpc.curiesteem.com | | | | |
+| https://appbasetest.timcliff.com | | | | |
+| https://api.mahdiyari.info | | | | |
+| https://api.steemitdev.com | | | | |
+| https://gtg.steem.house:8090 | | | | |
+| https://rpc.buildteam.io | | | | |
+| https://gtg.steem.house | | | | |
+| https://rpc.esteem.app | | | | |
 
 ## Wintesses 立场
 
