@@ -41,6 +41,10 @@
 | Global Blacklist API | | 未知 | Y |  |  |  |  |
 | Curangel | | 未知 | Y |  |  |  |  |
 
+#### steemconnect
+
+- Steem (国内节点): https://steemconnect.cocozl.cn
+- Hive (anyx 节点）: https://steemconnect.netlify.com
 
 #### 信息来源
 
