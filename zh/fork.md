@@ -19,7 +19,7 @@
 
 ## DApp和工具
 
-| Steem名称 | Hive名称 | 在Steem | 在Hive | Steem 网站/App | Hive 网站/App | 相关文章 | 备注 |
+| Steem名称 | Hive名称 | Steem | Hive | Steem 网站/App | Hive 网站/App | 相关文章 | 备注 |
 | :-- | :-- | -- | -- | :-- | :-- | :-- | :-- |
 | Steemit | | ○ |   | https://steemit.com |  |  |  |
 |  | Hive | ○ |   |  | https://hive.blog |  |  |
