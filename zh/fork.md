@@ -19,14 +19,16 @@
 
 ## DApp和工具
 
+> ○ 为支持，✕ 为不支持
+
 | Steem名称 | Hive名称 | Steem | Hive | Steem 网站/App | Hive 网站/App | 相关文章 | 备注 |
 | :-- | :-- | -- | -- | :-- | :-- | :-- | :-- |
-| Steemit | - | ○ |   | https://steemit.com |  |  |  |
-| - | Hive | ○ |   |  | https://hive.blog |  |  |
+| Steemit | - | ○ | ✕ | https://steemit.com |  |  |  |
+| - | Hive | ✕ | ○ |  | https://hive.blog |  |  |
 | steemd | hiveblocks | ○ | ○ | https://steemd.com | https://hiveblocks.com/ | | | 
 | SteemPeak | PeakD | ○ | ○ | https://steempeak.com/ | https://peakd.com/ | [THINGS ARE BUZZING - We want your input (#HIVE #REBRANDING)](https://steempeak.com/hive-175001/@steempeak/hive-and-url-changes) |  |
-| Busy | |   | ○ |  |  |  | busy 使用了 anyx 节点，将同步 Hive 链数据 |
-| Partiko | |   | ○ |  |  |  | Partiko 已经不在维护，由于使用了 anyx 节点，将同步 Hive 链数据 |
+| Busy | | ✕ | ○ |  |  |  | Busy 使用了 anyx 节点，将同步 Hive 链数据 |
+| Partiko | | ✕ | ○ |  |  |  | Partiko 已经不在维护，由于使用了 anyx 节点，将同步 Hive 链数据 |
 | eSteem | | ○ | ○ |  |  |  | 用户可以主动切换节点，使用对应的链 |
 | Steem Engine | | ○ | ○ |  |  |  | Steem Engine 计划将支持 Hive |
 | SteemAuto | Hive.vote | ○ | ○ | http://steemauto.com/ | https://hive.vote | [Hive.vote: Steemauto on the new chain 2020/03/18](https://steempeak.com/steemauto/@steemauto/hive-vote-or-steemauto-on-the-new-chain) | SteemAuto会支持Steem直到没有人在Steem上为其提供资金 |
@@ -34,10 +36,10 @@
 | Tipu | | ○ | ○ |  |  | [Hive Five!](https://steempeak.com/steem/@tipu/hive-five) |  |
 | Steem Keychain | Hive Keychain | ○ | ○ |  |  |  | 不支持 steemit.com 前端 |
 | SteemConnect | HiveSigner | ○ | ○ | https://steemconnect.com | https://hivesigner.com/ | [Hivesigner released and ready!](https://busy.org/@good-karma/hivesigner-released-and-ready) by eSteem team |  |
-| Actifit | |   | ○ |  |  | [Can You Hear the Buzzin? An Actifitter's Guide Plan to Hive](https://steempeak.com/actifit/@actifit/can-you-hear-the-buzzin-an-actifitter-s-guide-plan-to-hive) ! |  |
+| Actifit | | ✕ | ○ |  |  | [Can You Hear the Buzzin? An Actifitter's Guide Plan to Hive](https://steempeak.com/actifit/@actifit/can-you-hear-the-buzzin-an-actifitter-s-guide-plan-to-hive) ! |  |
 | Dpoll | | 未知 | ○ |  |  |  |  |
-| steem.chat | openhive.chat |   | ○ |  |  |  |  |
-| SteemSTEM | HiveSTEM |   | ○ |   |  | [On my way to the Hive side, with SteemSTEM](https://steempeak.com/@lemouth/on-my-way-to-the-hiv-1584625090) |  |
+| steem.chat | openhive.chat | ○ | ○ |  |  |  |  |
+| SteemSTEM | HiveSTEM | ✕ | ○ |   |  | [On my way to the Hive side, with SteemSTEM](https://steempeak.com/@lemouth/on-my-way-to-the-hiv-1584625090) |  |
 | Steemitworldmap | | 未知 | ○ |  |  |  |  |
 | Haveyoubeenhere | | 未知 | ○ |  |  |  |  |
 | curiesteem.com | | 未知 | ○ |  |  |  |  |
@@ -59,19 +61,21 @@
 
 ## API节点
 
+> ○ 为支持，✕ 为不支持
+
 | 节点 | Steem | Hive | 相关文章 | 备注 |
 | :-- | -- | -- | :-- | :-- |
-| https://api.steemit.com | ○ |  |  | |
-| https://api.hive.blog |  | ○ | | |
-| https://api.openhive.network |  | ○ | | |
-| https://anyx.io |  | ○ | [It's Time to Decentralize](https://steem.buzz/hive/@anyx/it-s-time-to-decentralize) | |
-| https://steem.61bts.com | ○ |  | | |
-| https://techcoderx.com |  | ○ | [Statement from @techcoderx witness](https://steem.buzz/witness/@techcoderx/statement-from-techcoderx-witness) | |
-| https://steemd.minnowsupportproject.org | ○ | | | |
-| https://api.steemitdev.com | ○ | | | |
-| https://steemd.steemitdev.com | ○ | | | |
-| https://steemd.privex.io | ○ |  | | |
-| https://rpc.esteem.app | | ○ | | |
+| https://api.steemit.com | ○ | ✕ |  | |
+| https://api.hive.blog | ✕ | ○ | | |
+| https://api.openhive.network | ✕ | ○ | | |
+| https://anyx.io | ✕ | ○ | [It's Time to Decentralize](https://steem.buzz/hive/@anyx/it-s-time-to-decentralize) | |
+| https://steem.61bts.com | ○ | ✕ | | |
+| https://techcoderx.com | ✕ | ○ | [Statement from @techcoderx witness](https://steem.buzz/witness/@techcoderx/statement-from-techcoderx-witness) | |
+| https://steemd.minnowsupportproject.org | ○ | ✕ | | |
+| https://api.steemitdev.com | ○ | ✕ | | |
+| https://steemd.steemitdev.com | ○ | ✕ | | |
+| https://steemd.privex.io | ○ | ✕ | | |
+| https://rpc.esteem.app | ✕ | ○ | | |
 | https://rpc.usesteem.com | | | | |
 | https://api.steem.house | | | | |
 | https://rpc.steemviz.com | | | | |
