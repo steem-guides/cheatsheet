@@ -83,8 +83,8 @@
 | https://rpc.buildteam.io | | | | |
 | https://gtg.steem.house | | | | |
 
-- 关于节点的可用性，请到 https://steemyy.com/ 检查最新情况；
-- 关于检测节点属于哪条链，可以使用 https://xiangstan.github.io/steem/ 进行检测
+- 关于节点的可用性，请到由 [@justyy](https://steem.buzz/@justyy) 创建的 https://steemyy.com/ 检查最新情况；
+- 关于检测节点属于哪条链，可以使用 [@lnakuma](https://steem.buzz/@lnakuma) 创建 https://xiangstan.github.io/steem/ 进行检测
 
 ## Wintesses 立场
 
