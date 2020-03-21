@@ -1,7 +1,10 @@
 # Fork Cheatsheet | 分叉清单
 
 > 由于 Hive 分叉的临近，不可避免地，社区必将迎来骚乱。
+> 
 > 为了缓解混乱带来的信息查询的困难，《Steem指南》推出特刊《分叉清单》（Fork Cheatsheet），帮助大家快速查询关于 Steem/Hive 的 DApp、工具 、API节点等信息，澄清疑惑。本清单将不时更新。
+>
+> 希望 [Fork Cheatsheet | 分叉清单](https://cheatsheet.steemh.org/zh/fork) 对您有帮助。
 
 ## Hive分叉始末
 
@@ -124,44 +127,4 @@
 |	37	|	 @eastooowest	|	○	|		|		|
 |	38	|	 @maiyude	|	○	|		|		|
 |	39	|	 @steempeak	|		|		|	○	|
-|	40	|	 @nicetry001	|	○	|		|		|
-|	41	|	 @car2001	|	○	|		|		|
-|	42	|	 @high46	|	○	|		|		|
-|	43	|	 @respect888	|	○	|		|		|
-|	44	|	 @matreshka	|	○	|		|		|
-|	45	|	 @ocd-witness	|		|	○	|		|
-|	46	|	 @emrebeyler	|		|	○	|		|
-|	47	|	 @netuoso	|		|	○	|		|
-|	48	|	 @pharesim	|		|	○	|		|
-|	49	|	 @curie	|		|		|	○	|
-|	50	|	 @arcange	|		|	○	|		|
-|	51	|	 @timcliff	|		|	○	|		|
-|	52	|	 @stoodkev	|		|	○	|		|
-|	53	|	 @riverhead	|		|		|	○	|
-|	54	|	 @liondani	|		|		|	○	|
-|	55	|	 @actifit	|		|	○	|		|
-|	56	|	 @jesta	|		|		|	○	|
-|	57	|	 @pfunk	|		|	○	|		|
-|	58	|	 @blockbrothers	|	○	|		|		|
-|	59	|	 @bhuz	|		|		|	○	|
-|	60	|	 @justyy	|	○	|		|		|
-
-#### 信息来源
-
-- [Which witness stays on Steem and leaves to Hive?](https://steem.buzz/witness-category/@zzan.witnesses/which-witness-stays-on-steem-and-leaves-to-hive)
-
-
-## FAQ
-
-1. 分叉对使用 Steem 的影响有哪些？
-
-  > 部分 DApp 会迁移到 Hive，使用那些 App 时可能需要注意它默认使用的是 Steem 还是 Hive 链，以及是否支持选择使用哪条链
-
-2. 分叉时需要注意哪些问题？
-
-  > 分叉时最重要的是注意账户安全。**不要**在不熟悉的 App 和 客户端上使用 active key（活跃秘钥）或者 master key（主密钥）登录，否则有钱包失窃的危险。
-
-
-## 欢迎提问和建议
-
-欢迎提供更多问题或建议，或参与[编辑](https://github.com/steem-guides/cheatsheet/edit/master/zh/fork.md) :)
+|	40	|	 @nicetry001
