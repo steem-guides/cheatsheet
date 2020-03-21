@@ -26,7 +26,7 @@
 | Steemit | - | ○ | ✕ | https://steemit.com |  |  |  |
 | - | Hive | ✕ | ○ |  | https://hive.blog |  |  |
 | steemd | hiveblocks | ○ | ○ | https://steemd.com | https://hiveblocks.com/ | | | 
-| SteemWorld | | ○ | ✕ |  |  | [My accounts are on the Hive blacklist](https://steempeak.com/steemworld/@steemchiller/my-accounts-are-on-the-hive-blacklist) |  |
+| SteemWorld | | ○ | ✕ | https://steemworld.org/ |  | [My accounts are on the Hive blacklist](https://steempeak.com/steemworld/@steemchiller/my-accounts-are-on-the-hive-blacklist) |  |
 | SteemPeak | PeakD | ○ | ○ | https://steempeak.com/ | https://peakd.com/ | [THINGS ARE BUZZING - We want your input (#HIVE #REBRANDING)](https://steempeak.com/hive-175001/@steempeak/hive-and-url-changes) |  |
 | Busy | | ✕ | ○ |  |  |  | Busy 使用了 anyx 节点，将同步 Hive 链数据 |
 | Partiko | | ✕ | ○ |  |  |  | Partiko 已经不在维护，由于使用了 anyx 节点，将同步 Hive 链数据 |
