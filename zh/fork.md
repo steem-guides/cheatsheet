@@ -14,6 +14,7 @@
 4. 2020/03/20，通过SPS申述被从空投黑名单中移除：[What to do if you're mistakenly excluded from the Hive airdrop
 ](https://steempeak.com/hive/@techcoderx/what-to-do-if-you-re-mistakenly-excluded-from-the-hive-airdrop)
 5. 2020/03/20，Hive Fork的运行方法：[Hive 0.23.0 Hard Fork release](https://steempeak.com/witness-update/@someguy123/ann-steem-in-a-box-hive-0-23-0-hard-fork-released)
+6. 2020/03/20，Hive Hard Fork 启动：[Hive is Arriving Shortly! What to Expect When Expecting a Hardfork](https://hive.blog/communityfork/@hiveio/hive-is-arriving-shortly-what-to-expect-when-expecting-a-hardfork)
 
 
 ## DApp和工具
