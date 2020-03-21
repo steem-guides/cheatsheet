@@ -19,7 +19,7 @@
 
 ## DApp和工具
 
-> ○ 为支持，✕ 为不支持
+> ○ 为支持，✕ 为不支持，? 为待定
 
 | Steem名称 | Hive名称 | Steem | Hive | Steem 网站/App | Hive 网站/App | 相关文章 | 备注 |
 | :-- | :-- | -- | -- | :-- | :-- | :-- | :-- |
@@ -37,17 +37,17 @@
 | Steem Keychain | Hive Keychain | ○ | ○ |  |  |  | 不支持 steemit.com 前端 |
 | SteemConnect | HiveSigner | ○ | ○ | https://steemconnect.com | https://hivesigner.com/ | [Hivesigner released and ready!](https://busy.org/@good-karma/hivesigner-released-and-ready) by eSteem team |  |
 | Actifit | | ✕ | ○ |  |  | [Can You Hear the Buzzin? An Actifitter's Guide Plan to Hive](https://steempeak.com/actifit/@actifit/can-you-hear-the-buzzin-an-actifitter-s-guide-plan-to-hive) ! |  |
-| Dpoll | | 未知 | ○ |  |  |  |  |
+| Dpoll | | ? | ○ |  |  |  |  |
 | steem.chat | openhive.chat | ○ | ○ |  |  |  |  |
 | SteemSTEM | HiveSTEM | ✕ | ○ |   |  | [On my way to the Hive side, with SteemSTEM](https://steempeak.com/@lemouth/on-my-way-to-the-hiv-1584625090) |  |
-| Steemitworldmap | | 未知 | ○ |  |  |  |  |
-| Haveyoubeenhere | | 未知 | ○ |  |  |  |  |
-| curiesteem.com | | 未知 | ○ |  |  |  |  |
-| OCD | | 未知 | ○ |  |  |  |  |
-| thegoodwhales.com | | 未知 | ○ |  |  |  |  |
-| C-Squared | | 未知 | ○ |  |  |  |  |
-| Global Blacklist API | | 未知 | ○ |  |  |  |  |
-| Curangel | | 未知 | ○ |  |  |  |  |
+| Steemitworldmap | | ✕ | ○ |  |  | [Steemitworldmap and HIVE](https://steempeak.com/steemitworldmap/@steemitworldmap/steemitworldmap-and-hive) |  |
+| Haveyoubeenhere | | ? | ○ |  |  |  |  |
+| curiesteem.com | | ? | ○ |  |  |  |  |
+| OCD | | ? | ○ |  |  |  |  |
+| thegoodwhales.com | | ? | ○ |  |  |  |  |
+| C-Squared | | ? | ○ |  |  |  |  |
+| Global Blacklist API | | ? | ○ |  |  |  |  |
+| Curangel | | ? | ○ |  |  |  |  |
 
 #### steemconnect
 
