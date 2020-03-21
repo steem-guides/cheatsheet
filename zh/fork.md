@@ -70,7 +70,8 @@
 | https://steemd.minnowsupportproject.org | ○ | | | |
 | https://api.steemitdev.com | ○ | | | |
 | https://steemd.steemitdev.com | ○ | | | |
-| https://steemd.privex.io | |  | | |
+| https://steemd.privex.io | ○ |  | | |
+| https://rpc.esteem.app | | ○ | | |
 | https://rpc.usesteem.com | | | | |
 | https://api.steem.house | | | | |
 | https://rpc.steemviz.com | | | | |
@@ -81,7 +82,6 @@
 | https://gtg.steem.house:8090 | | | | |
 | https://rpc.buildteam.io | | | | |
 | https://gtg.steem.house | | | | |
-| https://rpc.esteem.app | | | | |
 
 - 关于节点的可用性，请到 https://steemyy.com/ 检查最新情况。
 
