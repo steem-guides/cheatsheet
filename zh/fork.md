@@ -54,7 +54,7 @@
 
 ## API节点
 
-| 节点 | 是否在Steem | 是否在Hive | 相关文章 | 备注 |
+| 节点 | Steem | Hive | 相关文章 | 备注 |
 | :-- | -- | -- | :-- | :-- |
 | https://api.steemit.com | ○ |  |  | |
 | https://api.hive.blog |  | ○ | | |
@@ -62,20 +62,22 @@
 | https://steem.61bts.com | ○ |  | | |
 | https://techcoderx.com |  | ○ | [Statement from @techcoderx witness](https://steem.buzz/witness/@techcoderx/statement-from-techcoderx-witness) | |
 | https://steemd.minnowsupportproject.org | ○ | | | |
+| https://api.steemitdev.com | ○ | | | |
+| https://steemd.steemitdev.com | ○ | | | |
+| https://steemd.privex.io | |  | | |
 | https://rpc.usesteem.com | | | | |
 | https://api.steem.house | | | | |
 | https://rpc.steemviz.com | | | | |
 | https://steemd.pevo.science | | | | |
-| https://steemd.privex.io | | | | |
-| https://steemd.steemitdev.com | | | | |
 | https://rpc.curiesteem.com | | | | |
 | https://appbasetest.timcliff.com | | | | |
 | https://api.mahdiyari.info | | | | |
-| https://api.steemitdev.com | | | | |
 | https://gtg.steem.house:8090 | | | | |
 | https://rpc.buildteam.io | | | | |
 | https://gtg.steem.house | | | | |
 | https://rpc.esteem.app | | | | |
+
+- 关于节点的可用性，请到 https://steemyy.com/ 检查最新情况。
 
 ## Wintesses 立场
 
