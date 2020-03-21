@@ -18,7 +18,7 @@
 
 ## DApp和工具
 
-| Steem名称 | Hive名称 | 是否在Steem | 是否在Hive | Steem 网站/App | Hive 网站/App | 相关文章 | 备注 |
+| Steem名称 | Hive名称 | 在Steem | 在Hive | Steem 网站/App | Hive 网站/App | 相关文章 | 备注 |
 | :-- | :-- | -- | -- | :-- | :-- | :-- | :-- |
 | Steemit | | ○ |   | https://steemit.com |  |  |  |
 |  | Hive | ○ |   |  | https://hive.blog |  |  |
@@ -32,6 +32,7 @@
 | Splinterlands | | ○ | ○ |  |  | [Splinterlands' Plans for the Upcoming Hive Fork 2020/03/19](https://steem.buzz/splinterlands/@splinterlands/splinterlands-plans-for-the-upcoming-hive-fork) |  |
 | Tipu | | ○ | ○ |  |  | [Hive Five!](https://steempeak.com/steem/@tipu/hive-five) |  |
 | Steem Keychain | Hive Keychain | ○ | ○ |  |  |  | 不支持 steemit.com 前端 |
+| SteemConnect | HiveSigner | ○ | ○ | https://steemconnect.com | https://hivesigner.com/ | [Hivesigner released and ready!](https://busy.org/@good-karma/hivesigner-released-and-ready) by eSteem team |  |
 | Actifit | |   | ○ |  |  | [Can You Hear the Buzzin? An Actifitter's Guide Plan to Hive](https://steempeak.com/actifit/@actifit/can-you-hear-the-buzzin-an-actifitter-s-guide-plan-to-hive) !
  |  |
 | Dpoll | | 未知 | ○ |  |  |  |  |
@@ -127,4 +128,44 @@
 |	37	|	 @eastooowest	|	○	|		|		|
 |	38	|	 @maiyude	|	○	|		|		|
 |	39	|	 @steempeak	|		|		|	○	|
-|	40	|	 @nicetry001
+|	40	|	 @nicetry001	|	○	|		|		|
+|	41	|	 @car2001	|	○	|		|		|
+|	42	|	 @high46	|	○	|		|		|
+|	43	|	 @respect888	|	○	|		|		|
+|	44	|	 @matreshka	|	○	|		|		|
+|	45	|	 @ocd-witness	|		|	○	|		|
+|	46	|	 @emrebeyler	|		|	○	|		|
+|	47	|	 @netuoso	|		|	○	|		|
+|	48	|	 @pharesim	|		|	○	|		|
+|	49	|	 @curie	|		|		|	○	|
+|	50	|	 @arcange	|		|	○	|		|
+|	51	|	 @timcliff	|		|	○	|		|
+|	52	|	 @stoodkev	|		|	○	|		|
+|	53	|	 @riverhead	|		|		|	○	|
+|	54	|	 @liondani	|		|		|	○	|
+|	55	|	 @actifit	|		|	○	|		|
+|	56	|	 @jesta	|		|		|	○	|
+|	57	|	 @pfunk	|		|	○	|		|
+|	58	|	 @blockbrothers	|	○	|		|		|
+|	59	|	 @bhuz	|		|		|	○	|
+|	60	|	 @justyy	|	○	|		|		|
+
+#### 信息来源
+
+- [Which witness stays on Steem and leaves to Hive?](https://steem.buzz/witness-category/@zzan.witnesses/which-witness-stays-on-steem-and-leaves-to-hive)
+
+
+## FAQ
+
+1. 分叉对使用 Steem 的影响有哪些？
+
+  > 部分 DApp 会迁移到 Hive，使用那些 App 时可能需要注意它默认使用的是 Steem 还是 Hive 链，以及是否支持选择使用哪条链
+
+2. 分叉时需要注意哪些问题？
+
+  > 分叉时最重要的是注意账户安全。**不要**在不熟悉的 App 和 客户端上使用 active key（活跃秘钥）或者 master key（主密钥）登录，否则有钱包失窃的危险。
+
+
+## 欢迎提问和建议
+
+欢迎提供更多问题或建议，或参与[编辑](https://github.com/steem-guides/cheatsheet/edit/master/zh/fork.md) :)
