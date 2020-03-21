@@ -28,8 +28,8 @@
 | Busy | |   | ○ |  |  |  | busy 使用了 anyx 节点，将同步 Hive 链数据 |
 | Partiko | |   | ○ |  |  |  | Partiko 已经不在维护，由于使用了 anyx 节点，将同步 Hive 链数据 |
 | eSteem | | ○ | ○ |  |  |  | 用户可以主动切换节点，使用对应的链 |
-| Steem Engine | | ○ | ○ (计划中) |  |  |  |  |
-| SteemAuto | Hive.vote | ○（待定） | ○ | http://steemauto.com/ | https://hive.vote | [Hive.vote: Steemauto on the new chain 2020/03/18](https://steempeak.com/steemauto/@steemauto/hive-vote-or-steemauto-on-the-new-chain) |  |
+| Steem Engine | | ○ | ○ |  |  |  | Steem Engine 计划将支持 Hive |
+| SteemAuto | Hive.vote | ○ | ○ | http://steemauto.com/ | https://hive.vote | [Hive.vote: Steemauto on the new chain 2020/03/18](https://steempeak.com/steemauto/@steemauto/hive-vote-or-steemauto-on-the-new-chain) | SteemAuto会支持Steem直到没有人在Steem上为其提供资金 |
 | Splinterlands | | ○ | ○ |  |  | [Splinterlands' Plans for the Upcoming Hive Fork 2020/03/19](https://steem.buzz/splinterlands/@splinterlands/splinterlands-plans-for-the-upcoming-hive-fork) |  |
 | Tipu | | ○ | ○ |  |  | [Hive Five!](https://steempeak.com/steem/@tipu/hive-five) |  |
 | Steem Keychain | Hive Keychain | ○ | ○ |  |  |  | 不支持 steemit.com 前端 |
