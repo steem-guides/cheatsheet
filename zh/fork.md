@@ -21,9 +21,10 @@
 |  | Hive | ○ |   |  | https://hive.blog |  |  |
 | steemd | hiveblocks | ○ | ○ | https://steemd.com | https://hiveblocks.com/ | | | 
 | SteemPeak | PeakD | ○ | ○ | https://steempeak.com/ | https://peakd.com/ | [THINGS ARE BUZZING - We want your input (#HIVE #REBRANDING)](https://steempeak.com/hive-175001/@steempeak/hive-and-url-changes) |  |
-| Partiko | |   | ○ |  |  |  | Partiko 已经不在维护，由于使用了 anyx 节点，将同步 Hive 链数据 |
 | Busy | |   | ○ |  |  |  | busy 使用了 anyx 节点，将同步 Hive 链数据 |
-| Steem Engine | | ○ | 未知 |  |  |  |  |
+| Partiko | |   | ○ |  |  |  | Partiko 已经不在维护，由于使用了 anyx 节点，将同步 Hive 链数据 |
+| eSteem | | ○ | ○ |  |  |  | 用户可以主动切换节点，使用对应的链 |
+| Steem Engine | | ○ | ○ (计划中) |  |  |  |  |
 | SteemAuto | Hive.vote | ○（待定） | ○ | http://steemauto.com/ | https://hive.vote | [Hive.vote: Steemauto on the new chain 2020/03/18](https://steempeak.com/steemauto/@steemauto/hive-vote-or-steemauto-on-the-new-chain) |  |
 | Splinterlands | | ○ | ○ |  |  | [Splinterlands' Plans for the Upcoming Hive Fork 2020/03/19](https://steem.buzz/splinterlands/@splinterlands/splinterlands-plans-for-the-upcoming-hive-fork) |  |
 | Tipu | | ○ | ○ |  |  | [Hive Five!](https://steempeak.com/steem/@tipu/hive-five) |  |
