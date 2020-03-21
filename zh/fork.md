@@ -33,10 +33,11 @@
 | eSteem | | ○ | ○ |  |  |  | 用户可以主动切换节点，使用对应的链 |
 | Steem Engine | | ○ | ○ |  |  |  | Steem Engine 计划将支持 Hive |
 | SteemAuto | Hive.vote | ○ | ○ | http://steemauto.com/ | https://hive.vote | [Hive.vote: Steemauto on the new chain 2020/03/18](https://steempeak.com/steemauto/@steemauto/hive-vote-or-steemauto-on-the-new-chain) | SteemAuto会支持Steem直到没有人在Steem上为其提供资金 |
-| Splinterlands | | ○ | ○ |  |  | [Splinterlands' Plans for the Upcoming Hive Fork 2020/03/19](https://steem.buzz/splinterlands/@splinterlands/splinterlands-plans-for-the-upcoming-hive-fork) |  |
-| Tipu | | ○ | ○ |  |  | [Hive Five!](https://steempeak.com/steem/@tipu/hive-five) |  |
 | Steem Keychain | Hive Keychain | ○ | ○ |  |  |  | 不支持 steemit.com 前端 |
 | SteemConnect | HiveSigner | ○ | ○ | https://steemconnect.com | https://hivesigner.com/ | [Hivesigner released and ready!](https://busy.org/@good-karma/hivesigner-released-and-ready) by eSteem team |  |
+| Splinterlands | | ○ | ○ |  |  | [Splinterlands' Plans for the Upcoming Hive Fork 2020/03/19](https://steem.buzz/splinterlands/@splinterlands/splinterlands-plans-for-the-upcoming-hive-fork) |  |
+| Tipu | | ○ | ○ |  |  | [Hive Five!](https://steempeak.com/steem/@tipu/hive-five) |  |
+| DTube | | ○ | ? |  |  | [DTube's Upload gets upgraded](https://steempeak.com/dtube/@dtube/dtube-s-upload-gets-upgraded) |  |
 | Actifit | | ✕ | ○ |  |  | [Can You Hear the Buzzin? An Actifitter's Guide Plan to Hive](https://steempeak.com/actifit/@actifit/can-you-hear-the-buzzin-an-actifitter-s-guide-plan-to-hive) ! |  |
 | Dpoll | | ✕ | ○ |  |  | [HIVE Migration announcements: dPoll and hivemind.emrebeyler.me](https://steempeak.com/hive/@emrebeyler/hive-migration-announcements-dpoll-and-hivemind-emrebeyler-me) |  |
 | steem.chat | openhive.chat | ○ | ○ |  |  |  |  |
