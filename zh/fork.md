@@ -16,6 +16,16 @@
 5. 2020/03/20，Hive Fork的运行方法：[Hive 0.23.0 Hard Fork release](https://steempeak.com/witness-update/@someguy123/ann-steem-in-a-box-hive-0-23-0-hard-fork-released)
 6. 2020/03/20，Hive Hard Fork 启动：[Hive is Arriving Shortly! What to Expect When Expecting a Hardfork](https://hive.blog/communityfork/@hiveio/hive-is-arriving-shortly-what-to-expect-when-expecting-a-hardfork)
 
+## FAQ
+
+#1 分叉对使用 Steem 的影响有哪些？
+
+  > 部分 DApp 会迁移到 Hive，使用那些 App 时可能需要注意它默认使用的是 Steem 还是 Hive 链，以及是否支持选择使用哪条链
+
+#2 分叉时需要注意哪些问题？
+
+  > 分叉时最重要的是注意账户安全。**不要**在不熟悉的 App 和 客户端上使用 active key（活跃秘钥）或者 master key（主密钥）登录，否则有钱包失窃的危险。目前存在跨链攻击的安全风险，请特别注意保护账户安全。
+
 
 ## DApp和工具
 
@@ -24,9 +34,10 @@
 | Steem名称 | Hive名称 | Steem | Hive | Steem 网站/App | Hive 网站/App | 相关文章 | 备注 |
 | :-- | :-- | -- | -- | :-- | :-- | :-- | :-- |
 | Steemit | - | ○ | ✕ | https://steemit.com |  |  |  |
-| - | Hive | ✕ | ○ |  | https://hive.blog |  |  |
+| - | Hive Blog | ✕ | ○ |  | https://hive.blog |  |  |
 | steemd | hiveblocks | ○ | ○ | https://steemd.com | https://hiveblocks.com/ | | | 
 | SteemWorld | | ○ | ✕ | https://steemworld.org/ |  | [My accounts are on the Hive blacklist](https://steempeak.com/steemworld/@steemchiller/my-accounts-are-on-the-hive-blacklist) |  |
+| SteemCN | | ○ | ○ | https://steem.buzz |  |  | 会支持同时发帖到两边 |
 | SteemPeak | PeakD | ○ | ○ | https://steempeak.com/ | https://peakd.com/ | [THINGS ARE BUZZING - We want your input (#HIVE #REBRANDING)](https://steempeak.com/hive-175001/@steempeak/hive-and-url-changes) |  |
 | Busy | | ✕ | ○ |  |  |  | Busy 使用了 anyx 节点，将同步 Hive 链数据 |
 | Partiko | | ✕ | ○ |  |  |  | Partiko 已经不在维护，由于使用了 anyx 节点，将同步 Hive 链数据 |
@@ -161,17 +172,6 @@
 #### 信息来源
 
 - [Which witness stays on Steem and leaves to Hive?](https://steem.buzz/witness-category/@zzan.witnesses/which-witness-stays-on-steem-and-leaves-to-hive)
-
-
-## FAQ
-
-#1 分叉对使用 Steem 的影响有哪些？
-
-  > 部分 DApp 会迁移到 Hive，使用那些 App 时可能需要注意它默认使用的是 Steem 还是 Hive 链，以及是否支持选择使用哪条链
-
-#2 分叉时需要注意哪些问题？
-
-  > 分叉时最重要的是注意账户安全。**不要**在不熟悉的 App 和 客户端上使用 active key（活跃秘钥）或者 master key（主密钥）登录，否则有钱包失窃的危险。目前存在跨链攻击的安全风险，请特别注意保护账户安全。
 
 
 ## 欢迎提问和建议
