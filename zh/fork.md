@@ -53,7 +53,7 @@
 | Busy | | ✕ | ○ |  |  |  | Busy 使用了 anyx 节点，读取 Hive 链数据；但发布的内容通过 steemconnect.com 的 API 同步到 Steem 链，较为混乱，建议暂不使用其发帖 |
 | Partiko | | ✕ | ○ |  |  |  | Partiko 已经不在维护，由于使用了 anyx 节点，将同步 Hive 链数据 |
 | eSteem | | ○ | ○ |  |  |  | 用户可以主动切换节点，使用对应的链 |
-| Steem Engine | | ○ | ○ |  |  | [My plan](https://steem.buzz/steem-engine/@aggroed/my-plan) | Steem Engine 计划将支持 Hive |
+| Steem Engine | Hive Engine | ○ | ○ |  |  | [My plan](https://steem.buzz/steem-engine/@aggroed/my-plan) | Steem Engine 计划将支持 Hive |
 | SteemAuto | Hive.vote | ○ | ○ | http://steemauto.com/ | https://hive.vote | [Hive.vote: Steemauto on the new chain 2020/03/18](https://steempeak.com/steemauto/@steemauto/hive-vote-or-steemauto-on-the-new-chain) | SteemAuto会支持Steem直到没有人在Steem上为其提供资金 |
 | Steem Keychain | Hive Keychain | ○ | ○ |  |  |  | 不支持 steemit.com 前端 |
 | SteemConnect | HiveSigner | ○ | ○ | https://steemconnect.com | https://hivesigner.com/ | [Hivesigner released and ready!](https://busy.org/@good-karma/hivesigner-released-and-ready) by eSteem team |  |
