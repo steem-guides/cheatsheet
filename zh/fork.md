@@ -4,7 +4,7 @@
 > 
 > 为了缓解混乱带来的信息查询的困难，《Steem指南》推出特刊《分叉清单》（Fork Cheatsheet），帮助大家快速查询关于 Steem/Hive 的 DApp、工具 、API节点等信息，澄清疑惑。本清单将不时更新。
 >
-> 希望 [Fork Cheatsheet | 分叉清单](https://cheatsheet.steemh.org/zh/fork) 对您有帮助。
+> 希望 [Fork Cheatsheet / 分叉清单](https://cheatsheet.steemh.org/zh/fork) 对您有帮助。
 
 ## Hive分叉始末
 
@@ -39,7 +39,7 @@
 | SteemWorld | | ○ | ✕ | https://steemworld.org/ |  | [My accounts are on the Hive blacklist](https://steempeak.com/steemworld/@steemchiller/my-accounts-are-on-the-hive-blacklist) |  |
 | SteemCN | | ○ | ○ | https://steem.buzz |  |  | 会支持同时发帖到两边 |
 | SteemPeak | PeakD | ○ | ○ | https://steempeak.com/ | https://peakd.com/ | [THINGS ARE BUZZING - We want your input (#HIVE #REBRANDING)](https://steempeak.com/hive-175001/@steempeak/hive-and-url-changes) |  |
-| Busy | | ✕ | ○ |  |  |  | Busy 使用了 anyx 节点，将同步 Hive 链数据 |
+| Busy | | ✕ | ○ |  |  |  | Busy 使用了 anyx 节点，读取 Hive 链数据；但发布的内容通过 steemconnect.com 的 API 同步到 Steem 链，较为混乱，建议暂不使用其发帖 |
 | Partiko | | ✕ | ○ |  |  |  | Partiko 已经不在维护，由于使用了 anyx 节点，将同步 Hive 链数据 |
 | eSteem | | ○ | ○ |  |  |  | 用户可以主动切换节点，使用对应的链 |
 | Steem Engine | | ○ | ○ |  |  |  | Steem Engine 计划将支持 Hive |
