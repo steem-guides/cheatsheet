@@ -47,7 +47,7 @@
 | Steemit | - | ○ | ✕ | https://steemit.com |  |  |  |
 | - | Hive Blog | ✕ | ○ |  | https://hive.blog |  |  |
 | steemd | hiveblocks | ○ | ○ | https://steemd.com | https://hiveblocks.com/ | | | 
-| SteemWorld | | ○ | ✕ | https://steemworld.org/ |  | [My accounts are on the Hive blacklist](https://steempeak.com/steemworld/@steemchiller/my-accounts-are-on-the-hive-blacklist) |  |
+| SteemWorld | | ○ | ○ | https://steemworld.org/ |  | [My accounts are on the Hive blacklist](https://steempeak.com/steemworld/@steemchiller/my-accounts-are-on-the-hive-blacklist) | 将节点切换到 https://anyx.io 即可查询 Hive 信息  |
 | SteemCN | | ○ | ○ | https://steem.buzz |  |  | 会支持同时发帖到两边 |
 | SteemPeak | PeakD | ○ | ○ | https://steempeak.com/ | https://peakd.com/ | [THINGS ARE BUZZING - We want your input (#HIVE #REBRANDING)](https://steempeak.com/hive-175001/@steempeak/hive-and-url-changes) |  |
 | Busy | | ✕ | ○ |  |  |  | Busy 使用了 anyx 节点，读取 Hive 链数据；但发布的内容通过 steemconnect.com 的 API 同步到 Steem 链，较为混乱，建议暂不使用其发帖 |
