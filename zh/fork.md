@@ -28,7 +28,7 @@
 
 #3 能否同时在 Steem 和 Hive 发帖？
 
-  > 以下方法将支持 在任意基于Steem平台的 DApp 发帖，加上 steem2hive 标签，就可以同步到 Hive链上。为了实现自动同步，需要进行账户授权和登记：
+  > **Steem2Hive**：在任意基于Steem平台的 DApp 发帖，只需加上 #steem2hive 标签，就可以同步到 Hive 链。但为了实现自动同步，需要进行账户授权和登记：
   >  1. 代理 1 SP 到 @steem2hive账号（Steem上）：https://steemconnect.cocozl.cn/sign/delegateVestingShares?delegator=&delegatee=steem2hive&vesting_shares=1%20SP
   >
   >  2. 授权 @steem2hive账号（Hive上）：https://hivesigner.com/authorize/steem2hive
