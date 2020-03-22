@@ -16,7 +16,7 @@
 5. 2020/03/20，Hive Fork的运行方法：[Hive 0.23.0 Hard Fork release](https://steempeak.com/witness-update/@someguy123/ann-steem-in-a-box-hive-0-23-0-hard-fork-released)
 6. 2020/03/20，Hive Hard Fork 启动：[Hive is Arriving Shortly! What to Expect When Expecting a Hardfork](https://hive.blog/communityfork/@hiveio/hive-is-arriving-shortly-what-to-expect-when-expecting-a-hardfork)
 
-## FAQ
+## 常见问题 / FAQ
 
 #1 分叉对使用 Steem 的影响有哪些？
 
