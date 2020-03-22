@@ -14,7 +14,7 @@
 4. 2020/03/20，通过SPS申述被从空投黑名单中移除：[What to do if you're mistakenly excluded from the Hive airdrop
 ](https://steempeak.com/hive/@techcoderx/what-to-do-if-you-re-mistakenly-excluded-from-the-hive-airdrop)
 5. 2020/03/20，Hive Fork的运行方法：[Hive 0.23.0 Hard Fork release](https://steempeak.com/witness-update/@someguy123/ann-steem-in-a-box-hive-0-23-0-hard-fork-released)
-6. 2020/03/20，Hive Hard Fork 启动：[Hive is Arriving Shortly! What to Expect When Expecting a Hardfork](https://hive.blog/communityfork/@hiveio/hive-is-arriving-shortly-what-to-expect-when-expecting-a-hardfork)
+6. 2020/03/20，Hive Hard Fork 启动：[Hive is Arriving Shortly! What to Expect When Expecting a Hardfork](https://hive.blog/communityfork/@hiveio/hive-is-arriving-shortly-what-to-expect-when-expecting-a-hardfork) / [The Hive Blockchain Has Launched Successfully! Recap and Helpful Information](https://hive.blog/hiveblockchain/@hiveio/the-hive-blockchain-has-launched-successfully-recap-and-helpful-information)
 
 ## 常见问题 / FAQ
 
@@ -84,7 +84,7 @@
 
 ## API节点
 
-> ○ 为支持，✕ 为不支持
+> ○ 为支持，✕ 为不支持，空白为“无法连接”
 
 | 节点 | Steem | Hive | 相关文章 | 备注 |
 | :-- | -- | -- | :-- | :-- |
@@ -114,7 +114,7 @@
 
 - 关于节点的可用性，请到由 [@justyy](https://steem.buzz/@justyy) 创建的 https://steemyy.com/ 检查最新情况；
 - 关于检测节点属于哪条链，可以使用 [@lnakuma](https://steem.buzz/@lnakuma) 创建的 https://xiangstan.github.io/steem/ 进行检测
-- 以上没有标记的节点，为测试中暂时不可用的节点：测试时间 2020/03/21
+- 测试时间 2020/03/22
 
 ## Wintesses 立场
 
