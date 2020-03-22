@@ -26,6 +26,17 @@
 
   > 分叉时最重要的是注意账户安全。**不要**在不熟悉的 App 和 客户端上使用 active key（活跃秘钥）或者 master key（主密钥）登录，否则有钱包失窃的危险。目前存在跨链攻击的安全风险，请特别注意保护账户安全。
 
+#3 能否同时在 Steem 和 Hive 发帖？
+
+  > 以下方法将支持 在任意基于Steem平台的 DApp 发帖，加上 steem2hive 标签，就可以同步到 Hive链上。为了实现自动同步，需要进行账户授权和登记：
+  >  1. 代理 1 SP 到 @steem2hive账号（Steem上）：https://steemconnect.cocozl.cn/sign/delegateVestingShares?delegator=&delegatee=steem2hive&vesting_shares=1%20SP
+  >
+  >  2. 授权 @steem2hive账号（Hive上）：https://hivesigner.com/authorize/steem2hive
+  > 
+  > 发布到 Hive链 的帖子，收益的 1% 将会给 @steem-drivers，用于开发和支持开发者。Steem 上的帖子不抽成。
+  > 
+  > 目前还在很粗糙的测试阶段，可能还有一些问题
+
 
 ## DApp和工具
 
