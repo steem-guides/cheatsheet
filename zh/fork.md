@@ -93,7 +93,7 @@
 | https://api.openhive.network | ✕ | ○ | | |
 | https://anyx.io | ✕ | ○ | [It's Time to Decentralize](https://steem.buzz/hive/@anyx/it-s-time-to-decentralize) | |
 | https://steem.61bts.com | ○ | ✕ | | |
-| https://steem.bts.tw | ○ | ✕ | | |
+| https://api.steem.bts.tw | ○ | ✕ | | |
 | https://api.justyy.com | ○ | ✕ | | |
 | https://techcoderx.com | ✕ | ○ | [Statement from @techcoderx witness](https://steem.buzz/witness/@techcoderx/statement-from-techcoderx-witness) | |
 | https://steemd.minnowsupportproject.org | ○ | ✕ | | |
